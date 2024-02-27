@@ -8,6 +8,7 @@ body {
   background: var(--bg);
   color: var(--fontColor);
   font-family: helvetica;
+  font-size: 16pts;
 }
 
 li {
