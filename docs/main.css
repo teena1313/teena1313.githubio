@@ -24,6 +24,7 @@ li {
   --fontColor: var(--black);
   --btnBg: var(--black);
   --btnFontColor: var(--white);
+  --linkColor: var(--blue);
 }
 
 .dark-theme {
@@ -31,6 +32,7 @@ li {
   --fontColor: var(--green);
   --btnBg: var(--white);
   --btnFontColor: var(--black);
+  --linkColor: var(--aqua);
 }
 
 .btn {
