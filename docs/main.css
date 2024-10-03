@@ -21,6 +21,10 @@ li {
   list-style: square;
 }
 
+a {
+  color: var(--linkColor);
+}
+
 .light-theme {
   --bg: var(--green);
   --fontColor: var(--black);
